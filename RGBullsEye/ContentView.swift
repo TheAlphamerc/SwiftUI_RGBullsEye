@@ -40,8 +40,8 @@ struct ContentView: View {
                     .foregroundColor(Color(red: rTarget, green: gTarget, blue: bTarget,opacity: 1.0))
                     HStack{
                         Text("R: \(Int(rGuess * 255))")
-                        Text("R: \(Int(gGuess * 255))")
-                        Text("R: \(Int(bGuess * 255))")
+                        Text("G: \(Int(gGuess * 255))")
+                        Text("B: \(Int(bGuess * 255))")
                     }
                 }
             }
