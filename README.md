@@ -6,7 +6,7 @@ RGBullsEye game is built in [SwiftUI](https://developer.apple.com/tutorials/swif
 
  Screens               |  Screens  |  Screens
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/SwiftUI_RGBullsEye/blob/master/screenshots/screenshot_1.png?raw=true)|![](https://github.com/TheAlphamerc/SwiftUI_RGBullsEye/blob/master/screenshots/screenshot_4.png?raw=true)|![](https://github.com/TheAlphamerc/SwiftUI_RGBullsEye/blob/master/screenshots/screenshot_3.png?raw=true) 
+![](https://github.com/TheAlphamerc/SwiftUI_RGBullsEye/blob/master/screenshots/screenshot_1.png?raw=true)|![](https://github.com/TheAlphamerc/SwiftUI_RGBullsEye/blob/master/screenshots/screenshot_2.png?raw=true)|![](https://github.com/TheAlphamerc/SwiftUI_RGBullsEye/blob/master/screenshots/screenshot_3.png?raw=true) 
 
 # Pull Requests
 
